@@ -1,0 +1,37 @@
+body {
+  position: relative;
+  background-color: coral;
+}
+
+#leafletMap {
+  height: 700px;
+  width: 1500px;
+}
+
+
+.schoolIcon {
+  background-color: #A52A2A;
+  display: inline-block;
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  border: 1px solid black;
+}
+
+.hospitalIcon {
+  background-color: red;
+  display: inline-block;
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  border: 1px solid black;
+}
+
+.hospitalIconClicked {
+  background-color: Green;
+  display: inline-block;
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  border: 1px solid black;
+}
